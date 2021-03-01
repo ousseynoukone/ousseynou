@@ -1,0 +1,260 @@
+*{font-family: cursive;
+	text-decoration: none;
+	list-style: none;
+}
+.nav .max-width{
+	height: 60px;
+	width: 97.01%;
+	background-color: #00102b;
+	padding-top: 20px;
+	padding-right: 40px;
+	margin-bottom: 0px;
+	margin-right: 40px;
+	position: relative;
+
+
+
+
+}
+.nav{	width: 100%;
+	position: fixed;
+}
+.nav .max-width .buton{
+float: right;
+padding-left: 200px;
+display: inline;
+margin-right: 60px;
+
+}
+.nav .max-width .logo{ 
+text-decoration:none;  padding-left: 70px;
+	display: inline-block; font-size: 25px;color: white;
+}
+.nav .max-width .logo span{
+	color:red;
+}
+.nav .max-width .logo a{
+	color:white;
+}
+.nav .max-width  .buton li{ color:white; font-size:20px;
+display: inline-block;
+padding-left: 42px;
+
+}
+
+html, body {
+padding : 0;
+margin : 0;
+height : 100%;
+width: 100%;
+background-color:#00102b ;
+}
+
+.nav .max-width .buton li:hover{ color: red; 	transition: color 0.5s;
+
+}
+
+.section1 .max-width1 .bonjour { font-size: 40px;
+	color:white ; font-weight: bold; padding-top: 100px;
+	padding-left:40px;
+	display: inline-block; 
+}
+.max-width1{
+height: 800px;
+background:url('549438.jpg');
+}
+
+.section1 .max-width1 .bonjour span{color:red;
+
+}
+.section1 .max-width1 .bonjour .p{font-size: 25px;}
+.section1 .max-width1 .bonjour .button{font-size: 25px;border:1px solid white; color:white;
+	border-radius: 40px;
+	background-color: #00102b;
+	padding: 10px;
+
+}
+.section1 .max-width1 .bonjour .button:hover{
+	color:blue;
+	background-color: red;
+	border:1px solid blue; color:white;
+
+}
+
+
+.section2{
+	background-color:#00102b;
+}
+.section2 .aboutme{ color: white;
+	padding-left:540px;
+	font-size: 40px;
+	text-decoration: underline;
+
+}
+
+.img{ height: 450px;width: 350px;
+	border-radius: 10px;
+	margin-left: 40px;
+
+}
+
+.section2 .width{
+display: flex;}
+.div-left{ display: inline-block;
+margin-left: 90px;
+}
+.div-right{ 	
+float: right;width: 500px;height: 500px;margin-right: 250px; color: white;
+
+}
+.me{
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 90px;
+	margin-top: 50px;
+	color: white;
+}
+.content{margin-top: 90px;}
+span{color:red;}
+.button2{font-size: 25px;border:1px solid white; color:white;
+	border-radius: 40px;
+	background-color: #00102b;
+	padding: 10px;
+	margin-top: 25px;
+
+}
+.button2:hover{
+	color:blue;
+	background-color: red;
+	border:1px solid blue; color:white;
+}
+.section3 .max-width{ background-color:#00102b ;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-content: center;
+
+
+}
+.image{ width:280px; height: 260px; display: inline;
+	 background-color: black;
+padding-top: 10px;	
+margin-right: 20px; 
+border-radius: 5px;
+margin-top: 40px;
+
+}
+.text{ 
+	color: white;
+	margin-bottom:10px;
+}
+.p{  margin-top:50px;
+
+
+}
+.section3 .title p{
+	background-color: #00102b;
+color:white;
+display: inline-block;
+width: 50%;
+margin-left: 595px;
+margin-top:25px; 
+font-size: 40px;
+
+}
+.section3 .title span{ margin-left:0px;
+	font-size: 20px;
+}
+.tiret{
+	height: 2px;
+	width: 4px;
+	background-color: orange	;
+}
+.raccourcis{
+margin-left: 1210px;
+margin-top: 120px;
+background-color:#00102b; 
+border-radius: 40px;
+font-size: 15px;
+height: 90px;
+width: 170px;
+display: block;
+}
+.raccourcis li a{color: white;}
+.raccourcis li a:hover{color: red;
+	transition:color 0.5s;
+}
+.section4 .max-width{
+	height: 550px;
+	width: 100%;
+	background-color:;
+}
+.section4 .max-width .left-content{
+	float: left;
+	height: 400px;
+	width: 550px;
+	background-color: ;
+	margin-left:50px;
+	display: inline-block;
+	margin-top: 100px;
+	padding-bottom: 40px;
+}
+.get{margin-bottom: 20px;
+	font-size: 20px;
+	color: white;
+}
+
+.ico{
+	font-size:20px; color:white;
+}
+.ico p{
+	font-size:15px; color:white;
+}
+.message{
+	float: left;
+	height: 400px;
+	width: 400px;
+	background-color: ;
+	margin-top: 100px;
+	margin-left: 100px;
+	color:white;
+}
+
+
+.input{
+	margin-top: 10px;
+	height: 20px;
+	border-radius: 20px;
+}
+.input textarea{width: 250px;height: 200px;	
+
+
+}
+.message a button{margin-top: 210px; font-size: 25px;border:1px solid white; color:white;
+	border-radius: 40px;
+	background-color: #00102b;
+	padding: 10px;
+
+
+
+}
+.message a button:hover{color:blue;
+	background-color: red;
+	border:1px solid blue; color:white;
+	
+}
+#email{ width: 40px
+	height:90px;
+	margin-left:499px;
+display: block;
+padding-top:155px; }
+.featbar{
+	background-color:white ;
+	height:60px;
+	width: 100%;
+	text-align: center;
+	padding-top: 20px;
+}
+.copy{
+	font-size: 25px;
+}
